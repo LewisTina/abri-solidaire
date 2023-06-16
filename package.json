@@ -1,0 +1,38 @@
+{
+  "name": "say-it-web",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3002",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@types/node": "20.2.1",
+    "@types/react": "18.2.6",
+    "@types/react-dom": "18.2.4",
+    "autoprefixer": "10.4.14",
+    "babel": "^6.23.0",
+    "eslint": "8.40.0",
+    "eslint-config-next": "13.4.2",
+    "js-cookie": "^3.0.5",
+    "next": "13.4.2",
+    "next-themes": "^0.2.1",
+    "next-translate": "^2.0.5",
+    "next-translate-plugin": "^2.0.5",
+    "postcss": "8.4.23",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-hook-form": "^7.43.9",
+    "react-query": "^3.39.3",
+    "sass": "^1.62.1",
+    "scss": "^0.2.4",
+    "tailwindcss": "3.3.2",
+    "typescript": "5.0.4",
+    "yup": "^1.1.1"
+  },
+  "devDependencies": {
+    "@types/js-cookie": "^3.0.3"
+  }
+}

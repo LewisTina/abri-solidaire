@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "label": "abri"
+    },
+    {
+      "id": 2,
+      "label": "logement"
+    },
+    {
+      "id": 3,
+      "label": "chauffage"
+    },
+    {
+      "id": 4,
+      "label": "restaurant"
+    },
+    {
+      "id": 5,
+      "label": "repas chaud"
+    },
+    {
+      "id": 6,
+      "label": "électricité"
+    },
+    {
+      "id": 7,
+      "label": "médical"
+    },
+    {
+      "id": 8,
+      "label": "abri"
+    },
+    {
+      "id": 9,
+      "label": "accès internet"
+    },
+    {
+      "id": 10,
+      "label": "vêtements"
+    },
+    {
+      "id": 11,
+      "label": "santé"
+    },
+    {
+      "id": 12,
+      "label": "quit de nécessité"
+    },
+    {
+      "id": 13,
+      "label": "produit d'hygiène"
+    },
+    {
+      "id": 14,
+      "label": "centre social"
+    }
+  ]

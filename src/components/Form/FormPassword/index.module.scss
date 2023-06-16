@@ -1,0 +1,27 @@
+.passwordInput{
+    overflow: hidden;
+    //border: 2px solid transparent;
+    position: relative;
+
+    i{
+        height: 100%;
+        padding: 0.5em;
+        font-size: 1em;
+        display: flex;
+        align-items: center;
+        position: absolute;
+        right: 0.5em;
+    }
+    
+    input, input:focus{
+        border: none !important;
+        outline: none !important;
+        padding: 0 .75em 0 0;
+      }
+}
+
+@media (max-width: 699px) {
+    .passwordInput{
+        height: calc(3.25em - 4px);
+    }
+}

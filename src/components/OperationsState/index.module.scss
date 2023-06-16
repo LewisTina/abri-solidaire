@@ -1,0 +1,29 @@
+.OperationSate{
+    position: fixed;
+    width: 345px;
+    max-width: 345px;
+    top: 1em;
+    left: calc((100% - 345px)/2);
+    animation: entries 1s linear;
+    z-index: 99999999;
+    text-align: left;
+}
+
+.message{
+    width:100%;
+    padding: 0 1em ;
+
+    span{
+        text-transform: capitalize;
+    }
+}
+
+@keyframes entries {
+    from {
+        top: - 4em;
+    }
+
+    to {
+        top: 1em
+    }
+}
